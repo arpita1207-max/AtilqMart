@@ -48,4 +48,15 @@ Metrics Performance OverTime
 ![Metrics Performance OverTime](https://github.com/user-attachments/assets/8d686418-9b96-4179-aa8b-fa7de479c142)
 
 
+```
+Bussiness Insights
+Total 32k Orders were placed.
+In Full % ,On Time %,On Time In Full %  for city Vadodara is least  among all three cities.
+On Time % ,On Time In Full %  for city Surat is most  among all three cities.
+For Q2,Total Ordered Quantity is most (April -June) followed by Q3(July-August).
+VOFR % Total Quantity Shipped /Total Quantity Ordered is 96.57%.
+LIFR % Number of order lines shipped In Full Quantity / Total Order Lines is 65.97
 
+
+
+```

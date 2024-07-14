@@ -34,6 +34,9 @@ AtliqMart Report
 
 
 TOP LEVEL KPIs
-
 ![TOP LEVEL KPIs](https://github.com/user-attachments/assets/40430bfe-371d-4623-9e07-9e43d2d88e4f)
+
+LIFR and VOFR Metrics
+![LIFR and VOFR Metrics](https://github.com/user-attachments/assets/61160d3b-7b6f-473f-bbc4-eb224bf7bc60)
+
 ````

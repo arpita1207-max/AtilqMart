@@ -58,7 +58,7 @@ In Full % ,On Time %,On Time In Full %  for city Vadodara is least  among all th
 On Time % ,On Time In Full %  for city Surat is most  among all three cities.
 For Q2,Total Ordered Quantity is most (April -June) followed by Q3(July-August).
 VOFR % Total Quantity Shipped /Total Quantity Ordered is 96.57%.
-LIFR % Number of order lines shipped In Full Quantity / Total Order Lines is 65.97
+LIFR % Number of order lines shipped In Full Quantity / Total Order Lines is 65.97%
 
 
 

@@ -31,5 +31,7 @@ Sno	Measures		               Description
 
 ``` AtliqMart Report
 https://app.fabric.microsoft.com/groups/me/reports/4bdfc2b5-98c1-461e-a73a-9a0949d7a64a/dc467caa3887704ef507?experience=power-bi
+![image](https://github.com/user-attachments/assets/fafb5ec0-9258-4e6e-ac00-10066e6d1226)
+
 ```
 

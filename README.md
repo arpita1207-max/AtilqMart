@@ -30,6 +30,7 @@ Sno	Measures		               Description
 
 AtliqMart Report
 ````
+```Semantic Model ```
 
 
 ````

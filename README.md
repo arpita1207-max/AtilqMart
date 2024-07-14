@@ -27,13 +27,13 @@ Sno	Measures		               Description
 9	In Full Target 		           Average of In-Full Target
 10 On Time In Full Target 		 Average of OTIF Target
 
-```
 
-``` AtliqMart Report
-https://app.fabric.microsoft.com/groups/me/reports/4bdfc2b5-98c1-461e-a73a-9a0949d7a64a/dc467caa3887704ef507?experience=power-bi
+AtliqMart Report
 
 
 
-```
+
+TOP LEVEL KPIs
 
 ![TOP LEVEL KPIs](https://github.com/user-attachments/assets/40430bfe-371d-4623-9e07-9e43d2d88e4f)
+````

@@ -31,6 +31,8 @@ Sno	Measures		               Description
 AtliqMart Report
 ````
 ```Semantic Model ```
+![Semantic Model](https://github.com/user-attachments/assets/d3ec988b-147d-4912-8bdd-d1f29fcf79b3)
+
 
 
 ````

@@ -23,9 +23,13 @@ Sno	Measures		               Description
 5	On Time Delivery %	         Number of orders delivered On Time / Total Number of Orders
 6	In Full Delivery %	         Number of orders delivered in Full quantity / Total Number of Orders
 7	On Time In Full %	           Number of orders delivered both IN Full & On Time / Total Number of Orders
-8	On Time Target 		          Average of On-Time Target 
-9	In Full Target 		          Average of In-Full Target
-10 On Time In Full Target 		Average of OTIF Target
+8	On Time Target 		           Average of On-Time Target 
+9	In Full Target 		           Average of In-Full Target
+10 On Time In Full Target 		 Average of OTIF Target
 
+```
+
+``` AtliqMart Report
+https://app.fabric.microsoft.com/groups/me/reports/4bdfc2b5-98c1-461e-a73a-9a0949d7a64a/dc467caa3887704ef507?experience=power-bi
 ```
 
